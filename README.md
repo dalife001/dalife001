@@ -8,11 +8,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dalife001/dalife001/output/snake.svg" alt="Snake animation" />
-
-
-<br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dalife001.dalife001&left_color=grey&right_color=crimson"  />
 </div>
@@ -69,17 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-
-
 ###
-<br clear="both">
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/1252fd25940b306bb8f5e7ab0868a51ee955a3004252bbf47630e4a4b90cf359/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f373232352d636869706963686970692d6361742e676966"  />
-</div>
-
-
-
-
 
 <div align="left">
   <a href="dalife130" target="_blank">
@@ -91,11 +76,23 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalife001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dalife001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dalife001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalife001&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-here
+<img src="https://raw.githubusercontent.com/dalife001/dalife001/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/1252fd25940b306bb8f5e7ab0868a51ee955a3004252bbf47630e4a4b90cf359/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f373232352d636869706963686970692d6361742e676966"  />
+</div>
+
+###
