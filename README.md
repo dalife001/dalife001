@@ -2,25 +2,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dalife001.dalife001&left_color=grey&right_color=crimson"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<br clear="both">
-
-<h2 align="center">I do stuff that interests me, and honestly, that’s about it.</h2>
+<div align="center">
+  <img height="200 " src="./images/1.jpg"  />
+</div>
 
 ###
 
@@ -78,9 +66,23 @@
 
 <br clear="both">
 
+<h2 align="center">I do stuff that interests me, and honestly, that’s about it.</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dalife001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalife001&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dalife001.dalife001&left_color=grey&right_color=crimson"  />
 </div>
 
 ###
