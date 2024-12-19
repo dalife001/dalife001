@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="200 " src="./images/1.jpg"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
