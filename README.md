@@ -69,7 +69,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+
+
 ###
+<br clear="both">
+
+<img align="left" height="200" src="https://camo.githubusercontent.com/1252fd25940b306bb8f5e7ab0868a51ee955a3004252bbf47630e4a4b90cf359/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f373232352d636869706963686970692d6361742e676966"  />
+
+###
+
+
+###
+
 
 <div align="left">
   <a href="dalife130" target="_blank">
@@ -87,3 +98,5 @@
 </div>
 
 ###
+
+
