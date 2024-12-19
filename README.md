@@ -5,6 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
 <br clear="both">
 
 <h2 align="center">I do stuff that interests me, and honestly, that’s about it.</h2>
@@ -53,16 +54,18 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <a href="dalife130" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.gg/FSNdtw39Dx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.twitch.tv/dalife130" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
-
 
 
 <br clear="both">
