@@ -5,6 +5,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<br clear="both">
+
+<h2 align="center">I do stuff that interests me, and honestly, that’s about it.</h2>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -58,11 +63,7 @@
 
 ###
 
-<br clear="both">
 
-<h2 align="center">I do stuff that interests me, and honestly, that’s about it.</h2>
-
-###
 
 <br clear="both">
 
