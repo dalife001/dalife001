@@ -54,19 +54,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://discord.gg/FSNdtw39Dx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.twitch.tv/dalife130" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
-  </a>
-</div>
-
-###
-
 
 <br clear="both">
 
@@ -96,3 +83,17 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://discord.gg/FSNdtw39Dx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/dalife130" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
