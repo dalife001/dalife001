@@ -72,6 +72,14 @@ Hands-on, project-based learning in software and technology, with team projects,
 
 <hr/>
 
+<h2>🌌 My Universe</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dalife001/dalife001/main/assets/orbit.svg" alt="Animated skill universe" width="100%" />
+</div>
+
+<hr/>
+
 <h2>🚀 Featured Work</h2>
 
 <table>
@@ -102,11 +110,15 @@ Hands-on, project-based learning in software and technology, with team projects,
 <h2>📈 Activity</h2>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=dalife001&locale=en&mode=daily&hide_border=false&border_radius=10&background=0f0c29&border=302b63&ring=7b2ff7&fire=c77dff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=c77dff&dates=9d8cc9&stroke=302b63&order=3" alt="Streak stats" />
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalife001&radius=16&bg_color=0f0c29&color=c77dff&line=7b2ff7&point=ffffff&area_color=7b2ff7&area=true&hide_border=true&title_color=c77dff&order=5" alt="Contribution graph" width="100%" />
-<br/><br/>
-<img src="https://raw.githubusercontent.com/dalife001/dalife001/output/snake.svg" alt="Contribution snake" width="100%" />
+
+<p>
+<img src="https://img.shields.io/github/followers/dalife001?style=for-the-badge&logo=github&label=FOLLOWERS&color=7b2ff7&labelColor=0f0c29" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdalife001&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=7b2ff7&labelColor=0f0c29" alt="Public repositories" />
+<img src="https://img.shields.io/badge/ON%20GITHUB%20SINCE-2022-7b2ff7?style=for-the-badge&logo=github&labelColor=0f0c29" alt="On GitHub since 2022" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=dalife001&locale=en&mode=daily&hide_border=false&border_radius=10&background=0f0c29&border=302b63&ring=7b2ff7&fire=c77dff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=c77dff&dates=9d8cc9&stroke=302b63&order=3" alt="Contribution streak" />
+
 </div>
 
 <hr/>
