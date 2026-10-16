@@ -70,6 +70,14 @@ Hands-on, project-based learning in software and technology, with team projects,
 
 <hr/>
 
+<h2>My Universe</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dalife001/dalife001/main/assets/orbit.svg" alt="Animated skill universe" width="100%" />
+</div>
+
+<hr/>
+
 <h2>Featured Work</h2>
 
 <table>
