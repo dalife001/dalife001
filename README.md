@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:7b2ff7&height=260&section=header&text=HASSAN&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20Embedded%20%C2%B7%203D&descSize=20&descAlignY=65&descColor=d6b8ff" alt="Hassan" width="100%" />
+<img src="https://raw.githubusercontent.com/dalife001/dalife001/main/assets/header.svg" alt="Hassan, full-stack, mobile, embedded, 3D" width="100%" />
 
 <a href="https://github.com/dalife001"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=800&height=50&lines=Student+Developer+%40+Metropolia+UAS;Full-stack+%C2%B7+Docker+%C2%B7+CI%2FCD;Android+%C2%B7+Arduino+%C2%B7+Blender;Open+to+thesis%2C+junior+roles+%26+freelance" alt="Typing animation" /></a>
 
